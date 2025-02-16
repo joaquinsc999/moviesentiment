@@ -108,6 +108,7 @@ imdb-sentiment-api/
 ├── Dockerfile                 # Para contenerización con Docker
 ├── pyproject.toml             # Configuración del proyecto y dependencias
 ├── README.md                  # Este archivo
+├── model_development.ipynb    # Script para desarrollo de modelos
 └── run.py                     # Punto de entrada de la aplicación
 ```
 
